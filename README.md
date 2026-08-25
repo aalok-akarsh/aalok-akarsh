@@ -1,361 +1,274 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                         HEADER                                  -->
-
+<!--                    FEATURED DEVOPS PROJECTS                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div id="projects" align="center">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=130&section=header&text=Featured%20DevOps%20Projects&fontSize=28&fontColor=ffffff&animation=twinkling"
+    width="100%"
+  />
+
+</div>
+
+<br />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Alok+Pandey;Junior+DevOps+Engineer;AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Linux+%7C+Cloud+Automation" alt="Typing SVG" />
-
-<br/>
-
-### `Junior DevOps Engineer` • `Cloud & Automation`
-
-**AWS · Terraform · Docker · Kubernetes · CI/CD · Linux · Monitoring**
-
-<br/>
-
-<a href="https://github.com/aalok-akarsh">
-<img src="https://img.shields.io/badge/GitHub-aalok--akarsh-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/alokpandey3663">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://haahwaan.com">
-<img src="https://img.shields.io/badge/Portfolio-haahwaan.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=aalok-akarsh&label=PROFILE+VIEWS&style=flat" />
+> 🚀 **Hands-on projects focused on Cloud Infrastructure, CI/CD, IaC, Containers, Kubernetes & Observability**
 
 </div>
----
-
-# 👨‍💻 About Me
-
-I'm a **Junior DevOps Engineer** focused on building reliable, automated and scalable infrastructure.
-
-I have hands-on experience with **AWS cloud infrastructure, CI/CD pipelines, Infrastructure as Code, containerization, Linux administration and monitoring**.
-
-My engineering focus is:
-
-```text
-CODE
-  ↓
-VERSION CONTROL
-  ↓
-CI/CD AUTOMATION
-  ↓
-CONTAINERIZATION
-  ↓
-CLOUD INFRASTRUCTURE
-  ↓
-DEPLOYMENT
-  ↓
-MONITORING & OBSERVABILITY
-  ↓
-RELIABILITY
-```
-
-### What I bring
-
-* ⚙️ CI/CD automation using **Jenkins & GitHub Actions**
-* ☁️ AWS infrastructure using **EC2, S3, IAM, VPC & CloudWatch**
-* 🏗️ Infrastructure as Code using **Terraform**
-* 🐳 Containerization using **Docker**
-* ☸️ Kubernetes deployments and orchestration
-* 🐧 Linux administration and Bash scripting
-* 📊 Monitoring with **Prometheus, Grafana & CloudWatch**
-* 🌐 Nginx, reverse proxy and Linux server deployment
-* 🔐 Networking, IAM, Security Groups, SSH and firewall concepts
 
 ---
 
-# 🧰 Technical Skills
+## 🔄 CI/CD & Automation
+
+<details open>
+<summary><b>🤖 Automated CI/CD Pipeline & Web Server Orchestration</b></summary>
+
+<br />
+
+> Built an automated deployment pipeline using Jenkins, Git, Docker and AWS EC2 with Nginx configured as a reverse proxy.
+
+### 💡 Key Highlights
+
+- 🔄 Automated application deployments triggered through code commits
+- 🐳 Containerized application workloads using Docker
+- ☁️ Deployed workloads on AWS EC2
+- 🌐 Configured Nginx as a reverse proxy
+- ⚙️ Automated the application delivery workflow
+
+### 🛠️ Tech Stack
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+<br />
+
+🔗 **[View Repository →](https://github.com/aalok-akarsh/automated-cicd-pipeline-web-server-orchestration)**
+
+</details>
+
+---
+
+## ☁️ Cloud Infrastructure & Infrastructure as Code
+
+<details open>
+<summary><b>🏗️ AWS Infrastructure Automation — Terraform</b></summary>
+
+<br />
+
+> Automated AWS infrastructure provisioning using Terraform with modular configurations for repeatable infrastructure deployment.
+
+### 💡 Key Highlights
+
+- 🏗️ Provisioned AWS infrastructure using Terraform
+- 🌐 Configured VPC networking
+- 💻 Automated EC2 provisioning
+- 🪣 Configured S3 resources
+- 🔐 Managed IAM infrastructure
+- 🔄 Used Terraform `init`, `plan` and `apply` workflow
+- 🧩 Structured infrastructure using reusable modules
+
+### 🛠️ Tech Stack
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<br />
+
+🔗 **[View Repository →](https://github.com/aalok-akarsh/aws-infrastructure-automation-Iac)**
+
+</details>
+
+---
+
+## ☸️ Containerization & Kubernetes
+
+<details open>
+<summary><b>📦 Containerized Orchestration with Kubernetes</b></summary>
+
+<br />
+
+> Containerized applications with Docker and deployed them to Kubernetes using Pods, Deployments and Services.
+
+### 💡 Key Highlights
+
+- 🐳 Created and optimized Docker images
+- ☸️ Deployed applications on Kubernetes
+- 📦 Configured Pods and Deployments
+- 🌐 Configured Kubernetes Services
+- 🔄 Implemented rolling updates
+- 🚀 Practiced zero-downtime deployment concepts
+- ⚡ Worked with Kubernetes through Minikube
+
+### 🛠️ Tech Stack
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Minikube](https://img.shields.io/badge/Minikube-94399E?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+<br />
+
+🔗 **[View Repository →](https://github.com/aalok-akarsh/containerized-orchestration-with-kubernetes)**
+
+</details>
+
+---
+
+## 📊 Monitoring & Observability
+
+<details open>
+<summary><b>🔍 Monitoring & Observability Suite</b></summary>
+
+<br />
+
+> Built a monitoring environment using Prometheus, Grafana and AWS CloudWatch for infrastructure monitoring, metrics and troubleshooting.
+
+### 💡 Key Highlights
+
+- 📈 Implemented Prometheus metrics collection
+- 📊 Created Grafana monitoring dashboards
+- ☁️ Integrated AWS CloudWatch
+- 🚨 Configured monitoring and alerting workflows
+- 🔍 Performed log analysis
+- 🛠️ Used monitoring data for troubleshooting and performance analysis
+
+### 🛠️ Tech Stack
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![AWS CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<br />
+
+🔗 **[View Repository →](https://github.com/aalok-akarsh/monitoring-observability-suite)**
+
+</details>
+
+---
+
+## 🐳 AWS DevOps Deployment
+
+<details open>
+<summary><b>🚀 DevOps Internship Final Project</b></summary>
+
+<br />
+
+> End-to-end DevOps deployment project combining AWS infrastructure, Docker, Nginx, CI/CD and monitoring.
+
+### 💡 Key Highlights
+
+- ☁️ Deployed application infrastructure on AWS
+- 🐳 Used Docker for application containerization
+- 🌐 Configured Nginx for web traffic
+- 🔄 Implemented CI/CD automation
+- 📊 Integrated CloudWatch monitoring
+- 🔐 Applied cloud infrastructure and deployment practices
+
+### 🛠️ Tech Stack
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<br />
+
+🔗 **[View Repository →](https://github.com/aalok-akarsh/devops-intern-final)**
+
+</details>
+
+---
+
+# 📚 DevOps Repository List
+
+| # | Project | Category | Repository |
+|---|---|---|---|
+| 01 | Automated CI/CD Pipeline & Web Server Orchestration | Jenkins · Docker · AWS · Nginx | [View →](https://github.com/aalok-akarsh/automated-cicd-pipeline-web-server-orchestration) |
+| 02 | AWS Infrastructure Automation | Terraform · AWS · IaC | [View →](https://github.com/aalok-akarsh/aws-infrastructure-automation-Iac) |
+| 03 | Containerized Orchestration with Kubernetes | Docker · Kubernetes | [View →](https://github.com/aalok-akarsh/containerized-orchestration-with-kubernetes) |
+| 04 | Monitoring & Observability Suite | Prometheus · Grafana · CloudWatch | [View →](https://github.com/aalok-akarsh/monitoring-observability-suite) |
+| 05 | DevOps Internship Final Project | AWS · Docker · Nginx · CI/CD | [View →](https://github.com/aalok-akarsh/devops-intern-final) |
+| 06 | Node.js DevOps Project | Node.js · Docker · MongoDB · Redis | [View →](https://github.com/aalok-akarsh/node-devops-project) |
+| 07 | Nomad High Availability Project | Nomad · Nginx · Caddy | [View →](https://github.com/aalok-akarsh/nomad-ha-project) |
+| 08 | AWS Nginx Web Server | AWS EC2 · Nginx · Linux | [View →](https://github.com/aalok-akarsh/AWS-Nginx-Web-Server) |
+
+---
+
+# 🧰 Core DevOps Technologies
 
 <div align="center">
 
 ### ☁️ CLOUD
 
 <img src="https://skillicons.dev/icons?i=aws" />
-<img src="https://skillicons.dev/icons?i=azure" />
 
 ### ⚙️ DEVOPS & AUTOMATION
 
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,gitlab,terraform,ansible" />
+<img src="https://skillicons.dev/icons?i=terraform,jenkins,githubactions,git,github,ansible" />
 
 ### 🐳 CONTAINERS & ORCHESTRATION
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 
-### 🐧 SYSTEMS
+### 🐧 LINUX & SYSTEMS
 
 <img src="https://skillicons.dev/icons?i=linux,bash" />
+
+### 🌐 WEB & NETWORKING
+
+<img src="https://skillicons.dev/icons?i=nginx" />
 
 ### 💻 PROGRAMMING
 
 <img src="https://skillicons.dev/icons?i=python,java,cs,javascript" />
 
-### 📊 OBSERVABILITY
-
-`Prometheus` · `Grafana` · `AWS CloudWatch`
-
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 📈 DevOps Engineering Workflow
 
-> Selected projects demonstrating practical DevOps, Cloud, IaC, CI/CD and Kubernetes experience.
-
----
-
-## ☁️ AWS Infrastructure Automation
-
-### `Terraform • AWS • IaC`
-
-Provisioned AWS infrastructure using **modular Terraform configurations**, including VPC, EC2, S3 and IAM.
-
-**Highlights**
-
-* Infrastructure provisioning through Terraform
-* Modular infrastructure configuration
-* AWS networking and compute resources
-* Repeatable `init → plan → apply` workflow
-* Reduced manual infrastructure configuration
-
-**Tech:** `AWS` `Terraform` `VPC` `EC2` `S3` `IAM`
-
-🔗 **[View Project →](https://github.com/aalok-akarsh/aws-infrastructure-automation-Iac)**
-
----
-
-## 🔄 Automated CI/CD Pipeline & Web Server Orchestration
-
-### `Jenkins • Docker • AWS EC2 • Nginx`
-
-Built an automated application deployment pipeline using **Jenkins, Git and Docker**, deploying workloads to AWS EC2.
-
-**Highlights**
-
-* Automated CI/CD workflow
-* Git-triggered deployments
-* Docker-based application deployment
-* Nginx reverse proxy configuration
-* AWS EC2 deployment architecture
-
-**Tech:** `Jenkins` `Git` `Docker` `AWS EC2` `Nginx`
-
-🔗 **[View Project →](https://github.com/aalok-akarsh/automated-cicd-pipeline-web-server-orchestration)**
-
----
-
-## ☸️ Containerized Orchestration with Kubernetes
-
-### `Docker • Kubernetes • Minikube`
-
-Containerized applications and deployed them to Kubernetes using **Pods, Deployments and Services**.
-
-**Highlights**
-
-* Docker image creation and optimization
-* Kubernetes deployments
-* Service configuration
-* Rolling updates
-* High-availability concepts
-* Zero-downtime deployment concepts
-
-**Tech:** `Docker` `Kubernetes` `Minikube`
-
-🔗 **[View Project →](https://github.com/aalok-akarsh/containerized-orchestration-with-kubernetes)**
-
----
-
-## 📊 Monitoring & Observability Suite
-
-### `Prometheus • Grafana • AWS CloudWatch`
-
-Built a monitoring and observability environment for infrastructure metrics, alerts and troubleshooting.
-
-**Highlights**
-
-* Prometheus-based metrics collection
-* Grafana dashboards
-* AWS CloudWatch integration
-* Infrastructure monitoring
-* Log analysis and troubleshooting
-
-**Tech:** `Prometheus` `Grafana` `CloudWatch`
-
-🔗 **[View Project →](https://github.com/aalok-akarsh/monitoring-observability-suite)**
-
----
-
-## 🐳 DevOps Application Deployment on AWS
-
-### `AWS • Docker • Nginx • GitHub Actions • CloudWatch`
-
-Production-oriented deployment project combining cloud infrastructure, application deployment, CI/CD and monitoring.
-
-**Architecture**
+<div align="center">
 
 ```text
-Developer
-    │
-    ▼
- GitHub
-    │
-    ▼
-GitHub Actions
-    │
-    ▼
- Docker Build
-    │
-    ▼
- AWS EC2
-    │
-    ├── Nginx
-    │
-    └── Application
-          │
-          ▼
-      CloudWatch
-```
-
-**Tech:** `AWS` `Docker` `Nginx` `GitHub Actions` `CloudWatch`
-
-🔗 **[View Project →](https://github.com/aalok-akarsh/aws-devops-assignment)**
-
----
-
-# 🏢 Professional Experience
-
-### DevOps Intern — Springer Capital
-
-**Jan 2026 → Jun 2026**
-
-Worked on cloud infrastructure, CI/CD automation, containerization and deployment workflows.
-
-**Key Contributions**
-
-* Designed and optimized CI/CD pipelines using **Jenkins and GitHub Actions**
-* Managed AWS environments using **EC2, S3, IAM and VPC**
-* Automated infrastructure provisioning using **Terraform**
-* Containerized workloads using **Docker**
-* Troubleshot infrastructure and deployment failures
-* Improved deployment automation and reduced manual intervention
-* Applied monitoring, version control and continuous delivery practices
-
----
-
-# 📈 DevOps Engineering Focus
-
-| Area                  | Current Focus                       |
-| --------------------- | ----------------------------------- |
-| ☁️ Cloud              | AWS Infrastructure & Architecture   |
-| 🏗️ IaC               | Terraform                           |
-| 🔄 CI/CD              | Jenkins & GitHub Actions            |
-| 🐳 Containers         | Docker                              |
-| ☸️ Orchestration      | Kubernetes                          |
-| 🐧 Systems            | Linux & Bash                        |
-| 📊 Observability      | Prometheus, Grafana, CloudWatch     |
-| 🌐 Web Infrastructure | Nginx & Reverse Proxy               |
-| 🔐 Security           | IAM, Security Groups, SSH, Firewall |
-| 🚀 Reliability        | Automation, Monitoring & Deployment |
-
----
-
-# 🎯 Career Direction
-
-I'm currently building deeper expertise toward:
-
-**DevOps Engineer → Cloud Engineer → SRE**
-
-with a focus on:
-
-`Automation` · `Scalability` · `Observability` · `Reliability` · `Cloud Infrastructure`
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aalok-akarsh&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aalok-akarsh&hide_border=true" height="165"/>
-
-</div>
-
----
-
-# 🏆 GitHub Contributions
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aalok-akarsh&theme=flat&no-frame=true&margin-w=8"/>
-
-</div>
-
----
-
-# 📌 Currently Learning
-
-```text
-Advanced Kubernetes
-        │
-        ▼
-AWS Architecture
-        │
-        ▼
-Terraform & Infrastructure Automation
-        │
-        ▼
-CI/CD & DevSecOps
-        │
-        ▼
-Prometheus + Grafana
-        │
-        ▼
-SRE & Reliability Engineering
-```
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-### Looking for opportunities in
-
-**Junior DevOps Engineering · Cloud Engineering · SRE · AWS · Platform Engineering**
-
-<br/>
-
-<a href="https://www.linkedin.com/in/alokpandey3663">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/aalok-akarsh">
-<img src="https://img.shields.io/badge/GitHub-View%20my%20projects-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://haahwaan.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=for-the-badge&logo=google-chrome"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚙️ Automate. Deploy. Monitor. Improve.
-
-**Building reliable infrastructure, one deployment at a time.**
-
-</div>
+┌──────────────┐
+│   Developer  │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│     Git      │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│    CI/CD     │
+│ Jenkins / GH │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│    Docker    │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────────┐
+│ AWS / Kubernetes │
+└────────┬─────────┘
+         │
+         ▼
+┌──────────────────┐
+│ Monitoring       │
+│ Prometheus       │
+│ Grafana          │
+│ CloudWatch       │
+└──────────────────┘
