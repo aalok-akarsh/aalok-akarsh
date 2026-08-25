@@ -10,6 +10,58 @@
   />
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    DEVOPS PROFILE                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=130&section=header&text=Junior%20DevOps%20Engineer&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=DevOps+Intern+%7C+Fresher;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+GitHub+Actions;Linux+%7C+Monitoring+%7C+Cloud+Automation" />
+
+</div>
+
+---
+
+# 👋 About Me
+
+I'm an aspiring **DevOps Engineer** with hands-on internship and project experience in **cloud infrastructure, CI/CD automation, containerization, Infrastructure as Code and monitoring**.
+
+I enjoy building practical DevOps environments where application code moves from **Git → CI/CD → Docker → AWS/Kubernetes → Monitoring**.
+
+### 🔧 What I'm Working With
+
+- ☁️ **AWS** — EC2, S3, IAM, VPC, CloudWatch
+- 🔄 **CI/CD** — Jenkins, GitHub Actions
+- 🏗️ **Infrastructure as Code** — Terraform
+- 🐳 **Containers** — Docker, Docker Hub
+- ☸️ **Orchestration** — Kubernetes, Minikube
+- 🐧 **Linux** — Ubuntu, CentOS, Bash
+- 📊 **Monitoring** — Prometheus, Grafana, CloudWatch
+- 🌐 **Web Infrastructure** — Nginx, Reverse Proxy
+- 🔐 **Networking** — TCP/IP, DNS, SSH, Security Groups
+
+---
+
+# 🎯 Currently Looking For
+
+<div align="center">
+
+### 💼 DevOps Intern • Junior DevOps Engineer • Cloud/DevOps Fresher
+
+</div>
+
+I'm looking for an opportunity where I can:
+
+`Learn` → `Automate` → `Deploy` → `Monitor` → `Improve`
+
+and contribute to real-world **DevOps and cloud infrastructure environments**.
+
+---
 # 💼 Open to Opportunities
 
 <div align="center">
