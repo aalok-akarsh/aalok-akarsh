@@ -10,6 +10,15 @@
   />
 
 </div>
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aalok-akarsh&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
 
 <br />
 
@@ -232,6 +241,59 @@
 <img src="https://skillicons.dev/icons?i=python,java,cs,javascript" />
 
 </div>
+
+# 📜 Certifications & Training
+
+<div align="center">
+
+| Certification / Training | Provider |
+|---|---|
+| ☁️ AWS Solutions Architect Associate — Training | Udemy |
+| 💻 Advanced Diploma in Computer Application | Gyanoday Institute |
+
+</div>
+# 🏗️ What I Build
+
+<div align="center">
+
+| ⚙️ Area | 🔧 Implementation |
+|---|---|
+| Cloud Infrastructure | AWS + Terraform |
+| CI/CD | Jenkins + GitHub Actions |
+| Containers | Docker |
+| Orchestration | Kubernetes |
+| Web Infrastructure | Nginx |
+| Monitoring | Prometheus + Grafana |
+| Cloud Monitoring | AWS CloudWatch |
+| Linux Automation | Bash + Cron |
+| Infrastructure Security | IAM + Security Groups |
+| Deployment Automation | Git + CI/CD |
+
+</div>
+# ⚙️ DevOps Engineering Principles
+
+<div align="center">
+
+**Automation**  
+↓  
+**Repeatability**  
+↓  
+**Infrastructure as Code**  
+↓  
+**Continuous Delivery**  
+↓  
+**Observability**  
+↓  
+**Reliability**  
+↓  
+**Continuous Improvement**
+
+</div>
+
+---
+
+---
+---
 
 ---
 
