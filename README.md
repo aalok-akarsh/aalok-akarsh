@@ -6,7 +6,9 @@
 
 <div align="center">
 
-# ALok Pandey
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Alok+Pandey;Junior+DevOps+Engineer;AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Linux+%7C+Cloud+Automation" alt="Typing SVG" />
+
+<br/>
 
 ### `Junior DevOps Engineer` • `Cloud & Automation`
 
@@ -15,21 +17,22 @@
 <br/>
 
 <a href="https://github.com/aalok-akarsh">
-<img src="https://img.shields.io/badge/GitHub- aalok--akarsh-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-aalok--akarsh-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/alokpandey3663">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://haahwaan.com">
 <img src="https://img.shields.io/badge/Portfolio-haahwaan.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=aalok-akarsh&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=aalok-akarsh&label=PROFILE+VIEWS&style=flat" />
 
 </div>
-
 ---
 
 # 👨‍💻 About Me
