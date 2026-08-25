@@ -10,11 +10,29 @@
   />
 
 </div>
-# 📈 Contribution Activity
+# 💼 Open to Opportunities
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aalok-akarsh&hide_border=true&area=true" width="95%"/>
+### Junior DevOps Engineer • Cloud Engineer • SRE
+
+I'm interested in opportunities involving:
+
+`AWS` · `DevOps` · `Cloud Infrastructure` · `CI/CD` · `Kubernetes` · `Terraform` · `SRE`
+
+<br/>
+
+<a href="https://www.linkedin.com/in/alokpandey3663">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/aalok-akarsh">
+<img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://haahwaan.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-111111?style=for-the-badge&logo=google-chrome"/>
+</a>
 
 </div>
 
